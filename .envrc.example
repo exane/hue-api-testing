@@ -1,0 +1,3 @@
+export HUE_USERNAME=AUTHKEY
+export HUE_HOSTNAME=192.168.1.95
+export DASHBOARD_URL=http://dashboard
